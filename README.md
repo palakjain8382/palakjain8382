@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @palakjain8382
+- 👀 I’m interested in coding & logic developmemts.
+- 🌱 I’m currently in BCA final year.
+<!--- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-->
